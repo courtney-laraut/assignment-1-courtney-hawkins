@@ -20,3 +20,10 @@ The following GitHub submission guidelines were also followed as per request:
 * Commit All Required Files to GitHub in a new Repository
 * Create a pull request and a new Branch
 * Merge Changes Back to Main Branch
+
+Additional features were added to the project that are subject to approval as follows:
+
+* Sticky header
+* Hover function of navigation bar
+* Favicon
+
