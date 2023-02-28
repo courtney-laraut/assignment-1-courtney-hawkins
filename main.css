@@ -35,8 +35,6 @@ header {
     z-index: 5;
 }
 
-
-
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
@@ -45,8 +43,6 @@ header {
     position: relative;
     z-index: 2;
 }
-
-
 
 #hamburger-btn > button > img {
     height: 35px;
@@ -88,7 +84,6 @@ header {
 
 /* Sidebar Styles */
 
-
 .side-bar {
     background-color:rgb(59, 103, 139);
     width: 9em;
@@ -111,14 +106,12 @@ header {
     display: block;
 }
 
-
 .side-bar > nav > ul > li > a:hover {
     background-color: rgb(40, 69, 102);
     display: block;
 }
 
 /* Center Figure */
-
 
 .textover > img {
     width: 100%;
@@ -145,7 +138,6 @@ header {
 }
 
 /* Main Article Styles */
-
 
 article >div {
     margin: auto;
